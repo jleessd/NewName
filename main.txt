@@ -1,1 +1,2 @@
 Test file has new changes.
+ANd now it has a new feature line.
