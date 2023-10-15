@@ -1,1 +1,3 @@
+Test file has new changes.
+And now it has a new feature line.
 Test file has new changes. Tha will not be saved.
